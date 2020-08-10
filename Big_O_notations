@@ -1,0 +1,26 @@
+1.  What is the Big O for this?
+
+    The big O for this should be O(1), the time will always be linear.
+    The Big O for this will be O(n), the larger the size is, the longer it will take.
+
+2. Even or odd
+    The big O for this is O(1),  No matter how large the number is, it only depends on the ones column to find the answer.
+
+3.  Are you here?
+    The big O for this case is O(N^2), the worst case is going through NxN - 1 cases.
+
+4.  Doubler
+    The big O for this case is O(n).  You will iterate through all N items in the array, thus it will take N times iterations.
+
+5. Naive Search
+    The big O for this is O(n).  The worst case scenario is Nth time of iteration.
+
+6.  Creating pairs:
+    The big O for this is O(n^2) for each item in the array, it will iterate N times, so it will take NxN iterations or N^2.
+
+7.  Compute the sequence
+    This will result in a fibonacci sequence adding the previous two numbers up to create the 3rd number or 3rd "new number".
+    The Big O for this sequence is O(n), it will only matter how large the num input is.
+
+8. An efficient Search  
+    This looks similar to a binary search tree, thus the Big O notation for this is O(log n)

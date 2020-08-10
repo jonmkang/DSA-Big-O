@@ -1,0 +1,20 @@
+Counting Sheep:
+    This will iterate N times so the Big O notation is O(n).
+
+Factorial:
+    This will iterate N times so the Big O notation is O(n).
+
+Fibonacci: 
+    This will iterate N times so the Big O notation is O(n).
+
+Power Calculator:
+    This will iterate N times so the Big O notation is O(n).
+
+Reverse_string:
+    This will iterate N times so the big O notation is O(n).
+
+Triangular Number:
+    This will iterate N times so the Big O notation is O(n).
+
+String Splitter:
+    This will iterate N times so the Big O notation is O(n).
